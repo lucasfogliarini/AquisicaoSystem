@@ -17,5 +17,5 @@ Ao todo, são mais de 600 colaboradores do __Carrefour Soluções__ e outros mai
 # [Cartão Atacadão](https://www.cartaoatacadao.com.br)  
 # [Cartão Sam's Club](https://www.cartaosamsclub.com.br)
 
-## [AquisicaoSystem Diagram](https://app.icepanel.io/landscapes/yrpdZi7nw97vi2iiADWX/versions/latest/diagrams/editor?diagram=yZKUCdxUBU)
+## [AquisicaoSystem Landscape (view)](https://s.icepanel.io/6u4TEKQpKS43bz/Q0dS)
 ## [aquisicao.carrefoursolucoes.com.br Landscape (edit)](https://app.icepanel.io/landscapes/yrpdZi7nw97vi2iiADWX/)
