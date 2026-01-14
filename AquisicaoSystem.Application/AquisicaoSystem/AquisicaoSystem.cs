@@ -4,7 +4,7 @@ public class AquisicaoSystem(IDistributedApplicationBuilder builder) : KeycloakS
 {
     const string SystemName = nameof(AquisicaoSystem);
     protected override string Name { get; init; } = SystemName;
-    protected override string SystemDiagramUrl { get; init; } = $"{CarrefourDiagramsPage}{SystemName}/";
+    protected override string SystemDiagramUrl { get; init; } = "https://s.icepanel.io/6u4TEKQpKS43bz/Q0dS/";//$"{CarrefourDiagramsPage}{SystemName}/";
     protected override string SystemUrl { get; init; } = "https://aquisicao.carrefoursolucoes.com.br/";
     public Service<ProjectResource> WebApi { get { return GetService<Service<ProjectResource>>(); } }
     public Service<JavaScriptAppResource> WebApp { get { return GetService<Service<JavaScriptAppResource>>(); } }
