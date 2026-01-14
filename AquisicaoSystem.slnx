@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/docs/">
+    <File Path=".gitignore" />
+    <File Path="k6.js" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="AquisicaoSystem.Application/AquisicaoSystem.Application.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="AquisicaoSystem.WebApi/AquisicaoSystem.WebApi.csproj" />
+  <Project Path="AquisicaoSystem.WebApp/AquisicaoSystem.WebApp.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>

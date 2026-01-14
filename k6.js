@@ -14,7 +14,7 @@
 import http from 'k6/http';
 import { check, sleep } from 'k6';
 
-const host = "https://localhost:3000";
+const host = "https://localhost:2000";
 const accountsEndpoint = `${host}/accounts/lucasfogliarini`;
 
 const token = "";
